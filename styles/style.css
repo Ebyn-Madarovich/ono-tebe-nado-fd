@@ -1,7 +1,6 @@
 :root {
     --major-color: #000000;
     --minor-color: #FFFFFF;
-    --major-font: Raleway;
 }
 
 /* ===HEADER=== */
@@ -135,7 +134,7 @@
     min-height: 51px;
     min-width: 256px;
     font-size: 22px;
-    font-family: var(--major-font);
+    font-family: Raleway;
     font-weight: 500;
 }
 
